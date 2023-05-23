@@ -8,7 +8,6 @@ My implementation follows the architecture described in this picture:
 
 
 This is the encoder architecture that i have implemented:
-
 <img src = 'Images/Encoder.png' alt = 'Encoder'>
   
 
