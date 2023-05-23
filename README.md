@@ -7,7 +7,7 @@ My implementation follows the architecture described in this picture:
 <img src = 'Images/VIT.png' alt = 'VIT'> 
 
 
-This is the encoder architecture that i have implemented:
+This is the encoder architecture that i have implemented:<br>
 <img src = 'Images/Encoder.png' alt = 'Encoder'>
   
 
