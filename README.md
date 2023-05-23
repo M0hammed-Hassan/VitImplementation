@@ -3,7 +3,10 @@ This repository contains a PyTorch implementation of the Vision Transformer (ViT
 
 
 My implementation follows the architecture described in this picture:
-<img src = 'Images/VIT.png' alt = 'VIT'> <img src = 'Images/Encoder.png' alt = 'Encoder'>
+<img src = 'Images/VIT.png' alt = 'VIT'> 
+
+This my encoder architecture that i have implemented: 
+<img src = 'Images/Encoder.png' alt = 'Encoder'>
   
 
 # Requirements
